@@ -1,0 +1,16 @@
+{
+  "name":"A21040000I-000103",
+  "title":"01年平均餘命-依年齡別分.CSV",
+  "description":"資料來源：內政部統計處。 Source：Department of Statistics,
+   Ministry of the Interior.",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":null,
+  "sources":{
+    "name":"衛生福利部國民健康署"
+  },
+  "author":{
+    "name":"劉士嘉 先生",
+    "email":"liushihchia@hpa.gov.tw"
+  },
+  "keywords":""
+}
